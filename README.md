@@ -1,6 +1,6 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Desafio de HTML - CSS3 Instagram
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Utilizar flexbox do css3 para recriar a landing page de login do instagram
 
 ### Os requisitos são:
 
